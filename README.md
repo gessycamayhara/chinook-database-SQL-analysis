@@ -20,7 +20,7 @@ O objetivo é transformar dados brutos de vendas, clientes e catálogo em insigh
 * `projeto_chinook.ipynb`: Notebook principal com todas as análises e códigos.
 * `Chinook.sqlite`: Base de dados utilizada no projeto.
 
-## 📊 Principais Insights
+## Principais Insights
 1. **Domínio do Rock:** O género Rock representa a maior fatia do mercado, com artistas como Iron Maiden e U2 na liderança.
 2. **Mercado Norte-Americano:** Os EUA são o principal motor de receita, seguidos por Canadá e Brasil.
 3. **Fidelização:** Uma pequena percentagem de clientes "VIP" é responsável por uma fatia desproporcional do faturamento.
